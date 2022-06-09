@@ -8,7 +8,7 @@ Tree
 ├── portfolio
 │   ├── index.html
 │   ├── img
-|   |   ├── foe1.gif
+|   |   ├── foe.gif
 │   |   ├── bg.gif
 │   |   ├── icon.jpg
 |   |   ├── foe.jpg
